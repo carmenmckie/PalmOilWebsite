@@ -13,7 +13,7 @@
   </p>
     
 <br/>
- <a href="https://github.com/carmenmk/PalmOilWebsite"><strong>Source Files »</strong></a>
+ <a href="https://github.com/carmenmckie/PalmOilWebsite"><strong>Source Files »</strong></a>
 <br />
 
 
@@ -108,7 +108,7 @@
 <!-- CONTACT -->
 ## Contact
 
-* []() Carmen McKie - [GitHub: @carmenmk]
+* []() Carmen McKie - [GitHub: @carmenmckie]
 * []() LinkedIn: https://www.linkedin.com/in/carmenmckie/
 
 
