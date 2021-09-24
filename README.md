@@ -82,7 +82,7 @@
        <br>
        <img src="images/FinalDesign7.png" alt="Seventh image showing final website designs" width="700" height="600"> 
        <br>
-       <img src="images/FinalDesign8.png" alt="Eighth image showing final website designs" width="700" height="600"> 
+       <img src="images/FinalDesign8.png" alt="Eighth image showing final website designs" width="350" height="600"> 
   </p>
 
 
