@@ -4,7 +4,7 @@
 <br />
   <h3 align="center">University of Glasgow: Multimedia Analysis and Design Project</h3>
   <p align="center">
-    Project at the University of Glasgow to build a multimedia essay. 
+    Project at the University of Glasgow to build a multimedia website. 
     <br>
     <br>
     I took this opportunity to build a website that explored the debate surrounding palm oil from the particular angle of palm oil deforestation.  
@@ -55,7 +55,7 @@
 
 ### Research Design 
 
-* []() Paper-prototyping: the first stage in the testing process, in which participants were asked to share their opinions on the overall structure and layout of the information.
+* []() Paper-prototyping: the first stage in the testing process, in which participants were asked to share their opinions on the overall structure and layout of the information. Participants were also asked to perform defined user tasks and encouraged to think out loud. 
 * []() Ethnographic research: participants were given tasks to carry out under observation in the Reading Room at the University of Glasgow.
 * []() Surveys: participants were presented with survey questions for qualitative responses taken from recommended user experience survey questions to continue to adapt and develop the website design. 
 
