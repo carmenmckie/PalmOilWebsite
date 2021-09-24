@@ -56,13 +56,6 @@
 * []() FileZilla FTP to host internally at the University of Glasgow 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -80,5 +73,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * []() Sizzle.js (https://sizzlejs.com/)
 * []() ReadMe template (https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
 * []() All multimedia sources are referenced throughout the source files
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
