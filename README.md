@@ -61,6 +61,12 @@
 
 ### Final Designs 
 
+<li>
+  <ul>
+    As this website is hosted internally at the University of Glasgow, the following screenshots have been included:
+  </ul>
+</li>
+
   <p align="center">
        <img src="images/FinalDesign1.png" alt="First image showing final website designs" width="700" height="600"> 
        <br>
