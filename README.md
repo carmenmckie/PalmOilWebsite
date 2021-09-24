@@ -74,5 +74,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * []() Bootstrap v3.4.0 (https://getbootstrap.com/)
 * []() Sizzle.js (https://sizzlejs.com/)
 * []() ReadMe template (https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
+* []() All multimedia sources are referenced throughout the source files
 
 
