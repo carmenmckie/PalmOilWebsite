@@ -76,7 +76,7 @@
 
 <li>
   <ul>
-    As this website is hosted internally at the University of Glasgow, the following screenshots have been included:
+    As this website is hosted internally at the University of Glasgow, a public link cannot be provided. Therefore the following screenshots have been included:
   </ul>
 </li>
 
