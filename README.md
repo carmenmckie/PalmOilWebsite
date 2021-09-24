@@ -61,11 +61,17 @@
 
 ### Final Designs 
 
-  <li>
-    <ul> 
+//  <li>
+//    <ul> 
+//       <img src="images/FinalDesign1.png" alt="Logo" width="700" height="600"> 
+//    </ul>
+//   </li> 
+
+  <p align="center">
        <img src="images/FinalDesign1.png" alt="Logo" width="700" height="600"> 
-    </ul>
-  </li> 
+  </p>
+
+
   
 
 
