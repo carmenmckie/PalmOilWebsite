@@ -4,13 +4,13 @@
 <br />
   <h3 align="center">University of Glasgow: Multimedia Analysis and Design Project</h3>
   <p align="center">
-    Graded honours project as part of MA Digital Media at the University of Glasgow to build a multimedia essay. 
+    Project at the University of Glasgow to build a multimedia essay. 
     <br>
     <br>
     I took this opportunity to build a website that explored the debate surrounding palm oil from the particular angle of palm oil deforestation.  
     <br>
     <br>
-    Palm oil was chosen to be the topic of this multimedia essay as it was an area that was growing in popularity across social media and mainstream media at the time of development (early 2019). 
+    Palm oil was chosen to be the topic of this multimedia essay as it was an area that was growing in popularity across social media and mainstream media at the time of development. 
   </p>
     
     <br />
