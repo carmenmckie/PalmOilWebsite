@@ -55,6 +55,17 @@
 * []() Balsamiq for mockups 
 * []() FileZilla FTP to host internally at the University of Glasgow 
 
+### Research Design 
+
+### User Testing 
+
+### Final Designs 
+
+    <img src="images/FinalDesign1.png" alt="Logo" width="80" height="80">
+
+
+
+
 
 <!-- CONTACT -->
 ## Contact
