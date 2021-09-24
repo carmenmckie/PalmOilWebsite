@@ -26,6 +26,9 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#research-design">Research Design</a></li>
+        <li><a href="#user-testing">User Testing</a></li>
+        <li><a href="#final-designs">Final Designs</a></li>
       </ul>
     </li>
     <li><a href="#license">License</a></li>
@@ -49,6 +52,8 @@
 * []() HTML
 * []() CSS
 * []() JavaScript
+* []() Balsamiq for mockups 
+* []() FileZilla FTP to host internally at the University of Glasgow 
 
 
 <!-- LICENSE -->
