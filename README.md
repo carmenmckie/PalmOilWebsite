@@ -9,7 +9,7 @@
     I took this opportunity to build a website that explored the debate surrounding palm oil from the particular angle of palm oil deforestation.  
     <br>
     <br>
-    Palm oil was chosen to be the topic of this multimedia essay as it was an area that was growing in popularity across social media and mainstream media at the time of development. 
+    Palm oil was chosen to be the topic of this website as it was an area that was growing in popularity across social media and mainstream media at the time of development. 
   </p>
     
 <br/>
