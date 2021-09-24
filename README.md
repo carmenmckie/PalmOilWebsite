@@ -1,7 +1,7 @@
 
 <!-- Project Title -->
 <br />
-  <h3 align="center" style="colour: green">University of Glasgow: Multimedia Analysis and Design Project</h3>
+  <h3  style="colour: green" align="center">University of Glasgow: Multimedia Analysis and Design Project</h3>
   <p align="center">
     Project at the University of Glasgow to build a multimedia website. 
     <br>
