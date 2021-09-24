@@ -115,8 +115,8 @@
 ## Acknowledgements
 
 * []() fancyBox v3.5.7 ( http://fancyapps.com/fancybox/)
-* []() jQuery v1.10.2 | (c) 2005, 2013 jQuery Foundation, Inc. | (jquery.org/license)
-* []() jQuery v3.3.1 | (c) JS Foundation and other contributors | (jquery.org/license)
+* []() jQuery v1.10.2 | (c) 2005, 2013 jQuery Foundation, Inc. | (http://jquery.org/license)
+* []() jQuery v3.3.1 | (c) JS Foundation and other contributors | (http://jquery.org/license)
 * []() Bootstrap v3.4.0 (https://getbootstrap.com/)
 * []() Sizzle.js (https://sizzlejs.com/)
 * []() ReadMe template (https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
