@@ -66,9 +66,17 @@
        <br>
        <img src="images/FinalDesign2.png" alt="Second image showing final website designs" width="700" height="600"> 
        <br>
-
-  
-  
+       <img src="images/FinalDesign3.png" alt="Third image showing final website designs" width="700" height="600"> 
+       <br>
+       <img src="images/FinalDesign4.png" alt="Fourth image showing final website designs" width="700" height="600"> 
+       <br>
+       <img src="images/FinalDesign5.png" alt="Fifth image showing final website designs" width="700" height="600"> 
+       <br>
+       <img src="images/FinalDesign6.png" alt="Sixth image showing final website designs" width="700" height="600"> 
+       <br>
+       <img src="images/FinalDesign7.png" alt="Seventh image showing final website designs" width="700" height="600"> 
+       <br>
+       <img src="images/FinalDesign8.png" alt="Eighth image showing final website designs" width="700" height="600"> 
   </p>
 
 
