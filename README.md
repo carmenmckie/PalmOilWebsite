@@ -3,7 +3,7 @@
 <br />
   <h3 align="center">University of Glasgow: Multimedia Analysis and Design Project</h3>
   <p align="center">
-    Project at the University of Glasgow to build a multimedia website. 
+    Project at the University of Glasgow to build an academic multimedia website. 
     <br>
     <br>
     I took this opportunity to build a website that explored the debate surrounding palm oil from the particular angle of palm oil deforestation.  
