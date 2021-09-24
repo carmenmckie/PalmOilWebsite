@@ -57,7 +57,23 @@
 
 ### Research Design 
 
+* []() Paper-prototyping: the first stage in the testing process, in which participants were asked to share their opinions on the overall structure and layout of the information.
+* []() Ethnographic research: participants were given tasks to carry out under observation in the Reading Room at the University of Glasgow.
+* []() Surveys: participants were presented with survey questions for qualitative responses taken from recommended user experience survey questions to continue to adapt and develop the website design. 
+
+
 ### User Testing 
+
+* []() The qualitative responses significantly improved with each design development and after the third paper prototype phase, all participants communicated that they enjoyed the overall website design and structure of information. 
+* []() After this, the website design was developed further, taking design recommendations into account and implemented on Balsamiq. Participants were then asked to perform user tasks using Balsamiq mockups and communicate their thoughts on the overall content and technical design. 
+
+  <p align="center">
+       <img src="images/Mockup1.png" alt="First image showing Balsamiq mockups" width="700" height="600"> 
+       <br>
+       <img src="images/Mockup2.png" alt="Second image showing Balsamiq mockups" width="700" height="600"> 
+       <br>
+  </p>
+
 
 ### Final Designs 
 
