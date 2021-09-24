@@ -1,5 +1,4 @@
 
-
 <!-- Project Title -->
 <br />
   <h3 align="center">University of Glasgow: Multimedia Analysis and Design Project</h3>
@@ -13,9 +12,9 @@
     Palm oil was chosen to be the topic of this multimedia essay as it was an area that was growing in popularity across social media and mainstream media at the time of development. 
   </p>
     
-    <br />
-    <! -- <a href="..."><strong>Explore the docs »</strong></a> --> 
-    <br />
+<br/>
+ <a href="https://github.com/carmenmk/PalmOilWebsite"><strong>Source Files »</strong></a>
+<br />
 
 
 <!-- TABLE OF CONTENTS -->
@@ -129,5 +128,3 @@
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
