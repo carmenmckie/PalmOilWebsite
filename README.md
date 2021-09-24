@@ -43,7 +43,7 @@
 ## About The Project
 
 * []() This project aimed to add value to existing palm oil research by creating a resource which presented reliable information regarding palm oil deforestation through the use of academic sources.
-* []() Additionally, due to the real significance and severity of the production of palm oil, this project aimed to act as a resource which could educate users and work towards helping to improve the current damage caused by palm oil.
+* []() Additionally, due to the real significance and severity of the production of palm oil, this project aimed to act as a resource which could educate users and work towards helping to improve awareness of palm oil deforestation.
 
 ### Built With
 
