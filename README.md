@@ -108,7 +108,6 @@
 ## Contact
 
 * []() Carmen McKie - [GitHub: @carmenmckie]
-* []() LinkedIn: https://www.linkedin.com/in/carmenmckie/
 
 
 <!-- ACKNOWLEDGEMENTS -->
