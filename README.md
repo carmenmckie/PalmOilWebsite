@@ -1,7 +1,7 @@
 
 <!-- Project Title -->
 <br />
-  <h3 align="center">University of Glasgow: Multimedia Analysis and Design Project</h3>
+  <h3 align="center">University of Glasgow: Multimedia Analysis and Design Project (2019)</h3>
   <br>
   <p align="center">
     Project at the University of Glasgow to build an academic multimedia website, as part of the Multimedia Analysis and Design module. 
